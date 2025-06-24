@@ -1,5 +1,10 @@
 # Myforestblog
 
+<h1>Description</h1>
+Development Blog webpage using Angular 19.x to generate files but using version 2.x syntax for compatibility.
+
+Refer to the instructions below on building using Node.js.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
 ## Development server
